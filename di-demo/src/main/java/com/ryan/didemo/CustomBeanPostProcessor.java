@@ -1,4 +1,4 @@
-package com.ryan.didemo.services;
+package com.ryan.didemo;
 
 import com.ryan.didemo.LifeCycleDemoBean;
 import org.springframework.beans.BeansException;
